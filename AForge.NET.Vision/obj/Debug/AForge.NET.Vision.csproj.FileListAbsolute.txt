@@ -1,0 +1,87 @@
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe.config
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.exe
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.pdb
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.pdb
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Imaging.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Vision.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Math.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Imaging.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Vision.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\bin\Debug\AForge.Math.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csprojResolveAssemblyReference.cache
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Form1.resources
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Properties.Resources.resources
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csproj.GenerateResource.Cache
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe.config
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.exe
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.pdb
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.pdb
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Imaging.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Vision.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Math.dll
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Imaging.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Vision.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\bin\Debug\AForge.Math.xml
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csprojResolveAssemblyReference.cache
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Form1.resources
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Properties.Resources.resources
+C:\Users\Monster\Documents\Visual Studio 2015\Projects\AForge.NET.Vision DENEME\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csproj.GenerateResource.Cache
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe.config
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.exe
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.pdb
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.exe
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.NET.Vision.pdb
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Imaging.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Vision.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Math.dll
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Imaging.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.DirectShow.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.Kinect.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.VFW.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Video.Ximea.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Vision.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\bin\Debug\AForge.Math.xml
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csprojResolveAssemblyReference.cache
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Form1.resources
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.Properties.Resources.resources
+D:\Biyomedikal Mühendisliği\Çalışmalarım\C# 2\AForge.NET.Vision - Yedek Son 2\AForge.NET.Vision\obj\Debug\AForge.NET.Vision.csproj.GenerateResource.Cache
